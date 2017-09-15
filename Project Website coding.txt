@@ -1,0 +1,83 @@
+<html>
+<head>
+<!-- CSS - Files -- Attachments -- Starts -->
+    <link href="styles.css" rel="stylesheet">
+											<!-- CSS - Files -- Attachments -- Ends -->
+<!-- The Whole Website Container -- Starts -->
+<div class="wrapper">
+
+<!-- Top Header Menu-- Starts -->
+ <header class="site-header">
+        <div class="top">
+            <div class="container">
+				<div align="right">
+							<a href="login.php"> Login </a>  &nbsp &nbsp
+                            <a href="signup.php">Sign-up</a>  &nbsp &nbsp
+                            <a href="Index.html"> Home</a>
+                 </div>
+		     </div>
+        </div>
+	  </header>		<!-- Top Header Menu-- Ends -->
+</head>
+<body>				<!-- Body ---- Starts -->
+<br>				<!-- Break -->
+
+
+<!-- Main Content  -- Banner Area---- Starts -->
+ <header class="mid-head">
+        <div class="mid-top">
+            <div class="mid-container">
+                <div class="mid-row">
+							<div class="flex-container">
+							<div class="flex-item-1">
+							<h2>Welcome to </h2>							
+							<h1>Web Development Certification</h1>
+							<center><h1>Preparation Courses</h1></center> 
+							<h3><b>We make your Web Development certifications easy <br>
+								<center>Like Never Before </b></center></h3>
+							<h3><center><b> Sign Up </a></body> to Access all courses for Free   </b></center></h3>
+																															</div>	
+							<div class="flex-item-2"> 		<!-- Container-->
+							<img src="img\logo.jpg">		<!-- Image ---- Attachments --Links -->
+                            <img src="img\cert.png">		<!-- Image ---- Attachments --Links -->
+																															</div>                   
+                    </div>
+                </div>
+            </div>
+        </div>
+	    </header>		<!-- Main Content  -- Banner Area---- Starts -->
+		
+<div class="flex-container-mid">	<!--Wrapper Container---- Starts--->
+
+  <div class="flex-item"><h5> HTML  </h5>
+               <p>HTML stands for Hyper Text Markup Language, which is the most widely used language on Web to develop web pages. 
+				  HTML was created by Berners-Lee in late 1991 but "HTML 2.0" was the first standard HTML specification. HTML
+				  is widely used but currently we are having HTML-5 version</p>
+												</div>
+  <div class="flex-item"><h5>Javascript</h5>
+               <p>The most common use of JavaScript is to add client-side behavior to HTML pages, also known as Dynamic HTML (DHTML). Scripts are embedded in or included from HTML pages and interact with the Document Object Model (DOM) of the page.</p>
+												  </div>
+  <div class="flex-item"><h5>PHP</h5>
+                <p>The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create 
+				dynamic content that interacts with databases. PHP is basically used for developing web based software applications. 
+				This Quiz will helps you to build your base with PHP.</p>
+													</div> 
+													</div>		<!--Wrapper Container---- Starts--->
+
+<!--Footer--Menu--Start-->
+<header class="site-header">
+        <div class="top">
+            <div class="container">
+                <div class="row">
+                    		
+                         <body link="white">
+					<a href="login.php"> Login </a>  &nbsp &nbsp
+                    <a href="signup.php">Sign-up</a>  &nbsp &nbsp
+                    <a href="Index.html"> Home</a></body>
+                </div>
+            </div>
+        </div>
+	    </header>		<!--Footer --Menu ----End-->
+</body>	<!-- Body ---- Ends -->
+</div>	<!-- The Whole Website Container -- Ends -->
+</html> <!-- HTML --Doc -- Close>
